@@ -2,6 +2,7 @@
   <Reference>&lt;ApplicationData&gt;\LINQPad\Samples\Programming Reactive Extensions and LINQ\System.Reactive.dll</Reference>
   <Namespace>System.Reactive</Namespace>
   <Namespace>System.Reactive.Linq</Namespace>
+  <Namespace>System.Reactive.Concurrency</Namespace>
 </Query>
 
 /* Timer 1
